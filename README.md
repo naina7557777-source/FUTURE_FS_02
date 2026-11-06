@@ -1,3 +1,4 @@
+**CIN ID:** FIT/OCT26/FS21724
 # Client Lead Management System (Mini CRM)
 
 A full-stack web app for capturing website leads and moving them through a sales pipeline. Leads arrive from a contact form, and an admin dashboard lets the team track each lead's stage and keep a timestamped history of notes.
